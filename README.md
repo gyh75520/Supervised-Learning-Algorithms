@@ -1,6 +1,9 @@
 # Supervised-Learning-Algorithms
 Comparisons and Experiments of Supervised Learning Algorithms
 
+python 3.5</br>
+scikit-learn 0.18.2</br>
+
 basic_tool.py        数据预处理 通用方法
 
 binary_Classifier.py 算法实现的二分类 分类器</br>
