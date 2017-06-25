@@ -3,7 +3,7 @@ Comparisons and Experiments of Supervised Learning Algorithms
 
 basic_tool.py        数据预处理 通用方法
 
-binary_Classifier.py 算法实现的二分类 分类器
+binary_Classifier.py 算法实现的二分类 分类器 
 mul_Classifier.py    算法实现的多分类分 类器
 metrics_binary.py    二分类问题 评价指标
 metrics_mul.py       多分类问题 评价指标
